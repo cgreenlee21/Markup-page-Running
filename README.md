@@ -1,5 +1,8 @@
 # Running Page
 
+Welcome to my page about running!
+To return to the homepage click [here](https://github.com/cgreenlee21/Midterm-Project.git)
+
 Running has been a passion of mine for a while now. I only started cross-country and track in 7th grade, but even before that I always remember running the mile and the pacer test in school wanting to do it as fast as I possibly could.
 
 When I started out I was no where near being a good runner, but through a lot of hard work and thousands of miles in and out of season I made my way up to varsity level apart of a team that qualified for state almost every year in Track and Cross-Country.
